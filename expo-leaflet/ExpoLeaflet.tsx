@@ -92,7 +92,6 @@ export const ExpoLeaflet = ({
         StyleSheet.absoluteFill,
         {
           backgroundColor: backgroundColor ?? 'white',
-          position: 'relative',
           flex: 1,
         },
       ]}
