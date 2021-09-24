@@ -15,7 +15,7 @@
     "react-native",
     "webview"
   ],
-  "main": "index.js",
+  "main": "index.tsx",
   "typings": "index.d.ts",
   "scripts": {
     "build": "tsc",
