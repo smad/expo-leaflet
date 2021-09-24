@@ -1,6 +1,6 @@
 {
   "name": "expo-leaflet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React Native component that uses a WebView to provide a Leaflet map.",
   "repository": {
     "type": "git",
